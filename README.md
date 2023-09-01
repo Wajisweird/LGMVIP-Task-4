@@ -1,5 +1,5 @@
 Created by Qazi Wajahat Hussain with ❤️.
-
+This is just a simple calculator that is fully functional. 
 
 
 # Getting Started with Create React App
